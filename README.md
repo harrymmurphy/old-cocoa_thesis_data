@@ -6,5 +6,7 @@ This model trained on historical data from the Cocoa Research Institute of Niger
 
 
 ## Probalistic Regression Model
+<img width="457" alt="image" src="https://github.com/harrymmurphy/old-cocoa_thesis_data/assets/143562527/8f62dc85-bdc9-440a-8704-df1add4b91fa">
 
-<img width="511" alt="image" src="https://github.com/harrymmurphy/old-cocoa_thesis_data/assets/143562527/84663ce1-3eaa-4ca1-85eb-afb055177c99">
+## November Forecast
+
