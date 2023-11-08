@@ -10,4 +10,10 @@ This model trained on historical data from the Cocoa Research Institute of Niger
 
 ## November Forecast
 For days Nov 7- Nov 21. Little change in percentage of crops affected by Black Pod Disease.
+
+
+
+
+
+
 <img width="229" alt="image" src="https://github.com/harrymmurphy/old-cocoa_thesis_data/assets/143562527/9bd85946-c371-4df4-91ee-bc41a5cc5b12">
